@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|solutionrelative:candidatehubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94F2B224-ECBA-4892-9DDF-258945288631}|CandidateHubApi.Tests\\CandidateHubApi.Tests.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi.tests\\candidatescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2B224-ECBA-4892-9DDF-258945288631}|CandidateHubApi.Tests\\CandidateHubApi.Tests.csproj|solutionrelative:candidatehubapi.tests\\candidatescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2B224-ECBA-4892-9DDF-258945288631}|CandidateHubApi.Tests\\CandidateHubApi.Tests.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi.tests\\candidateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2B224-ECBA-4892-9DDF-258945288631}|CandidateHubApi.Tests\\CandidateHubApi.Tests.csproj|solutionrelative:candidatehubapi.tests\\candidateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F2B224-ECBA-4892-9DDF-258945288631}|CandidateHubApi.Tests\\CandidateHubApi.Tests.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F2B224-ECBA-4892-9DDF-258945288631}|CandidateHubApi.Tests\\CandidateHubApi.Tests.csproj|solutionrelative:candidatehubapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\dtos\\canididatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|solutionrelative:candidatehubapi\\dtos\\canididatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|solutionrelative:candidatehubapi\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|solutionrelative:candidatehubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\services\\candidateservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|solutionrelative:candidatehubapi\\services\\candidateservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\dtos\\canididatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|solutionrelative:candidatehubapi\\dtos\\canididatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}|CandidateHubApi\\CandidateHubApi.csproj|c:\\users\\user\\onedrive - zu.edu.jo\\desktop\\project\\candidatehub\\candidatehubapi\\candidatehubapi\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +62,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi.Tests\\CandidatesControllerTests.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi.Tests\\CandidatesControllerTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi.Tests\\CandidatesControllerTests.cs",
+              "RelativeToolTip": "CandidateHubApi.Tests\\CandidatesControllerTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowEMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:29:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi.Tests\\CandidateServiceTests.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi.Tests\\CandidateServiceTests.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi.Tests\\CandidateServiceTests.cs",
+              "RelativeToolTip": "CandidateHubApi.Tests\\CandidateServiceTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:27:58.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "CandidateHubApi.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:23:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CanididateDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Dtos\\CanididateDto.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi\\Dtos\\CanididateDto.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Dtos\\CanididateDto.cs",
+              "RelativeToolTip": "CandidateHubApi\\Dtos\\CanididateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:06:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Interfaces\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi\\Interfaces\\ICandidateService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Interfaces\\ICandidateService.cs",
+              "RelativeToolTip": "CandidateHubApi\\Interfaces\\ICandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:03:48.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Program.cs",
+              "RelativeToolTip": "CandidateHubApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:11:36.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "CandidateHubApi\\Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "CandidateHubApi\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:43:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CandidateService .cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Services\\CandidateService .cs",
               "RelativeDocumentMoniker": "CandidateHubApi\\Services\\CandidateService .cs",
@@ -67,59 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CanididateDto.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Dtos\\CanididateDto.cs",
-              "RelativeDocumentMoniker": "CandidateHubApi\\Dtos\\CanididateDto.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Dtos\\CanididateDto.cs",
-              "RelativeToolTip": "CandidateHubApi\\Dtos\\CanididateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:06:01.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICandidateService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Interfaces\\ICandidateService.cs",
-              "RelativeDocumentMoniker": "CandidateHubApi\\Interfaces\\ICandidateService.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Interfaces\\ICandidateService.cs*",
-              "RelativeToolTip": "CandidateHubApi\\Interfaces\\ICandidateService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T20:03:48.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Program.cs",
-              "RelativeDocumentMoniker": "CandidateHubApi\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Program.cs",
-              "RelativeToolTip": "CandidateHubApi\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T19:11:36.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CandidatesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Controllers\\CandidatesController.cs",
-              "RelativeDocumentMoniker": "CandidateHubApi\\Controllers\\CandidatesController.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Controllers\\CandidatesController.cs",
-              "RelativeToolTip": "CandidateHubApi\\Controllers\\CandidatesController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T19:43:39.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CandidateHubApi\\Data\\ApplicationDbContext.cs",
@@ -132,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Candidate.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Models\\Candidate.cs",
               "RelativeDocumentMoniker": "CandidateHubApi\\Models\\Candidate.cs",
@@ -145,20 +196,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CandidateRepository .cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Repositories\\CandidateRepository .cs",
               "RelativeDocumentMoniker": "CandidateHubApi\\Repositories\\CandidateRepository .cs",
               "ToolTip": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Repositories\\CandidateRepository .cs",
               "RelativeToolTip": "CandidateHubApi\\Repositories\\CandidateRepository .cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA6wA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T19:54:00.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ICandidateRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\Interfaces\\ICandidateRepository.cs",
               "RelativeDocumentMoniker": "CandidateHubApi\\Interfaces\\ICandidateRepository.cs",
@@ -171,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - zu.edu.jo\\Desktop\\Project\\CandidateHub\\CandidateHubApi\\CandidateHubApi\\appsettings.json",
               "RelativeDocumentMoniker": "CandidateHubApi\\appsettings.json",
@@ -179,7 +230,8 @@
               "RelativeToolTip": "CandidateHubApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T19:06:18.863Z"
+              "WhenOpened": "2024-09-20T19:06:18.863Z",
+              "EditorCaption": ""
             }
           ]
         }
