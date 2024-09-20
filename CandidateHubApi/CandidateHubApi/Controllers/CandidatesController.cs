@@ -1,4 +1,6 @@
 ﻿using CandidateHubApi.Data;
+using CandidateHubApi.Dtos;
+using CandidateHubApi.Interfaces;
 using CandidateHubApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -6,40 +8,33 @@ using System;
 
 namespace CandidateHubApi.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class CandidatesController : ControllerBase
     {
-        private readonly ApplicationDbContext _context;
+        private readonly ICandidateService _candidateService;
 
-        public CandidatesController(ApplicationDbContext context)
+        public CandidatesController(ICandidateService candidateService)
         {
-            _context = context;
+            _candidateService = candidateService;
         }
 
+        /// <summary>
+        /// Adds a new candidate or updates an existing candidate based on email.
+        /// </summary>
+        /// <param name="candidateDto">Candidate information.</param>
+        /// <returns>Action result.</returns>
         [HttpPost]
-        public async Task<IActionResult> UpsertCandidate(Candidate candidate)
+        public async Task<IActionResult> AddOrUpdateCandidate([FromBody] CanididateDto candidateDto)
         {
-            var existingCandidate = await _context.Candidates
-                .FirstOrDefaultAsync(c => c.Email == candidate.Email);
-
-            if (existingCandidate == null)
+            if (!ModelState.IsValid)
             {
-                _context.Candidates.Add(candidate);
-            }
-            else
-            {
-                existingCandidate.FirstName = candidate.FirstName;
-                existingCandidate.LastName = candidate.LastName;
-                existingCandidate.PhoneNumber = candidate.PhoneNumber;
-                existingCandidate.CallInterval = candidate.CallInterval;
-                existingCandidate.LinkedInProfileUrl = candidate.LinkedInProfileUrl;
-                existingCandidate.GitHubProfileUrl = candidate.GitHubProfileUrl;
-                existingCandidate.FreeTextComment = candidate.FreeTextComment;
+                return BadRequest(ModelState);
             }
 
-            await _context.SaveChangesAsync();
-            return Ok(candidate);
+            await _candidateService.AddOrUpdateCandidateAsync(candidateDto);
+
+            return Ok(new { Message = "Candidate information has been successfully added or updated." });
         }
     }
 }

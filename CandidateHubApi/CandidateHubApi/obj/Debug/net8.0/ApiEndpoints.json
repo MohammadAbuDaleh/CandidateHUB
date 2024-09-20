@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CandidateHubApi.Controllers.CandidatesController",
+    "Method": "AddOrUpdateCandidate",
+    "RelativePath": "api/Candidates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "candidateDto",
+        "Type": "CandidateHubApi.Dtos.CanididateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
