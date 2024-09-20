@@ -9,7 +9,23 @@
     "Parameters": [
       {
         "Name": "candidateDto",
-        "Type": "CandidateHubApi.Dtos.CanididateDto",
+        "Type": "CandidateHubApi.Dtos.CandidateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CandidateHubApi.Controllers.CandidatesController",
+    "Method": "GetCandidateByEmail",
+    "RelativePath": "api/Candidates/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
