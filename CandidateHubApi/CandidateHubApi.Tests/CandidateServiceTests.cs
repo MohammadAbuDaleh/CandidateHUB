@@ -24,7 +24,7 @@ namespace CandidateHubApi.Tests
         public async Task AddOrUpdateCandidateAsync_AddsNewCandidate_WhenEmailDoesNotExist()
         {
             // Arrange
-            var candidateDto = new CanididateDto
+            var candidateDto = new CandidateDto
             {
                 FirstName = "Jane",
                 LastName = "Doe",
@@ -53,7 +53,7 @@ namespace CandidateHubApi.Tests
         public async Task AddOrUpdateCandidateAsync_UpdatesExistingCandidate_WhenEmailExists()
         {
             // Arrange
-            var candidateDto = new CanididateDto
+            var candidateDto = new CandidateDto
             {
                 FirstName = "John",
                 LastName = "Smith",

@@ -2,7 +2,7 @@
 
 namespace CandidateHubApi.Dtos
 {
-    public class CanididateDto
+    public class CandidateDto
     {
         public long? Id { get; set; }
         [Required]

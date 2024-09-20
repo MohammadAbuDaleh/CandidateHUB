@@ -5,7 +5,12 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateHubApi", "CandidateHubApi\CandidateHubApi.csproj", "{BCA3C10D-FD88-47E9-A21B-CA17E4D92FAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateHubApi.Tests", "CandidateHubApi.Tests\CandidateHubApi.Tests.csproj", "{94F2B224-ECBA-4892-9DDF-258945288631}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateHubApi.Tests", "CandidateHubApi.Tests\CandidateHubApi.Tests.csproj", "{94F2B224-ECBA-4892-9DDF-258945288631}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5FF4DD56-673F-4179-8AA0-93AA418A515D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

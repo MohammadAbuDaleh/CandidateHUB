@@ -25,7 +25,7 @@ namespace CandidateHubApi.Tests
         public async Task AddOrUpdateCandidate_ReturnsOk_WhenModelIsValid()
         {
             // Arrange
-            var candidateDto = new CanididateDto
+            var candidateDto = new CandidateDto
             {
                 FirstName = "Alice",
                 LastName = "Johnson",
@@ -48,7 +48,7 @@ namespace CandidateHubApi.Tests
         public async Task AddOrUpdateCandidate_ReturnsBadRequest_WhenModelIsInvalid()
         {
             // Arrange
-            var candidateDto = new CanididateDto
+            var candidateDto = new CandidateDto
             {
                 // Missing required fields
                 Email = "invalid-email",
@@ -65,7 +65,7 @@ namespace CandidateHubApi.Tests
             // Assert
             var badRequestResult = Assert.IsType<BadRequestObjectResult>(result);
             Assert.Equal(400, badRequestResult.StatusCode);
-            _mockService.Verify(s => s.AddOrUpdateCandidateAsync(It.IsAny<CanididateDto>()), Times.Never);
+            _mockService.Verify(s => s.AddOrUpdateCandidateAsync(It.IsAny<CandidateDto>()), Times.Never);
         }
     }
 }

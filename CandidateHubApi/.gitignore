@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.lock.json
+*.db
+.vscode/
+.vs/
+*.dbmdl
+*.bak
+*.log
+
+# User-specific files
+*.swp
+*.swn
+*.tmp
+
+# Others
+node_modules/

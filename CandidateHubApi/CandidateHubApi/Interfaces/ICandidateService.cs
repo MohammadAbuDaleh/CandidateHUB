@@ -4,6 +4,7 @@ namespace CandidateHubApi.Interfaces
 {
     public interface ICandidateService
     {
-        Task AddOrUpdateCandidateAsync(CanididateDto candidateDto);
+        Task AddOrUpdateCandidateAsync(CandidateDto candidateDto);
+        Task<CandidateDto> GetCandidateByEmailAsync(string email);
     }
 }
