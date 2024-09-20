@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LE4d54ip64h9+HfwsT7VafK5X3Yz6KJ+5WA1DgAeofk=",
+  "Source": "CandidateHubApi",
+  "BasePath": "_content/CandidateHubApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
